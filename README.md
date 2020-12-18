@@ -3,15 +3,15 @@
 Para empezar abrimos visual studio code, nos posicionamos en la terminal y con el comando cd nos posicionamos en el directorio donde se encuentra la carpeta que 
 contiene todos los archivos e instalamos:
 
-nmp request install --save
+npm request install --save
 
-nmp request-promise install
+npm request-promise install
 
 npm install body-parser
 
-nmp express install
+npm express install
 
-nmp cors install 
+npm cors install 
 
 Luego de la instalacion ejecutar el comando
 node servidor.js

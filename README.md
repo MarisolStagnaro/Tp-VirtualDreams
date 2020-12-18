@@ -7,6 +7,8 @@ nmp request install --save
 
 nmp request-promise install
 
+npm install body-parser
+
 nmp express install
 
 nmp cors install 

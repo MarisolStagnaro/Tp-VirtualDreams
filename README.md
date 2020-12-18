@@ -3,9 +3,9 @@
 Para empezar abrimos visual studio code, nos posicionamos en la terminal y con el comando cd nos posicionamos en el directorio donde se encuentra la carpeta que 
 contiene todos los archivos e instalamos:
 
-npm request install --save
+npm install --save request
 
-npm request-promise install
+npm install --save request-promise
 
 npm install body-parser
 

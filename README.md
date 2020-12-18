@@ -2,9 +2,13 @@
 
 Para empezar abrimos visual studio code, nos posicionamos en la terminal y con el comando cd nos posicionamos en el directorio donde se encuentra la carpeta que 
 contiene todos los archivos e instalamos:
+
 nmp request install --save
+
 nmp request-promise install
+
 nmp express install
+
 nmp cors install 
 
 Luego de la instalacion ejecutar el comando

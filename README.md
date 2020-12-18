@@ -18,7 +18,7 @@ node servidor.js
 Ya tenemos inicializado el servidor para recibir peticiones
 
 Luego abrimos el archivo html en el navegador, ingresar los datos del formulario y una vez ingresado los datos presionar el boton enviar.
-El cual manda una peticion POST al nuestro servidor que valida si los datos estan bien, sino nos devuelve error codigo 400 o 500.
+El cual manda una peticion POST a nuestro servidor que valida si los datos estan bien o sino nos devuelve error codigo 400 o 500.
 Y si los datos son validos devolvera 201 y ademas hace la peticion post a la url: https://reclutamiento-14cf7.firebaseio.com/personas.json 
 con los datos enviados.
 Para que el servidor deje de escuchar nos posicionamos en la terminal y tocamos ctrl+c
